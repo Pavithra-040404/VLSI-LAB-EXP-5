@@ -2,9 +2,11 @@
 # DATE:23/04/2024
 # SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
-# AIM: To simulate and synthesis finite state machine using Xilinx ISE.
+# AIM: 
+To simulate and synthesis finite state machine using Xilinx ISE.
 
-# APPARATUS REQUIRED: VIVADO 2023.1
+# APPARATUS REQUIRED: 
+VIVADO 2023.1
 
 # PROCEDURE:
 1.Open Vivado: Launch Xilinx Vivado software on your computer.
