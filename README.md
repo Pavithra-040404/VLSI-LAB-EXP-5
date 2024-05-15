@@ -68,12 +68,12 @@ assign z=(present_state==S3);
 endmodule
 
 
-OUTPUT:
+# OUTPUT:
 
 ![image](https://github.com/Pavithra-040404/VLSI-LAB-EXP-5/assets/161431611/de5f2d18-1fde-4869-a377-230a3140e435)
 
 
-RESULT:Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
+# RESULT:Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
 
 
 
